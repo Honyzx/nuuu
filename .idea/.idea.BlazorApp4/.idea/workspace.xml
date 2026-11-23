@@ -10,17 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="910c6bf9-f8ac-46ea-bfc1-7a9565aec804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BlazorApp4/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BlazorApp4/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BlazorApp4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BlazorApp4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp4/database.db-shm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp4/database.db-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp4/Components/App.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorApp4/Components/App.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp4/Components/Pages/Home.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorApp4/Components/Pages/Home.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp4/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorApp4/database.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorApp4/wwwroot/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorApp4/wwwroot/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorApp4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorApp4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +18,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -36,12 +39,12 @@
     &quot;assignee&quot;: &quot;Honyzx&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Honyzx/GameRentaa&quot;,
-    &quot;accountId&quot;: &quot;7e1ecc65-2d7b-465d-b6ed-d9963b0e5b24&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/scacvavcx-ux/muuuuu.git",
+    "accountId": "7e1ecc65-2d7b-465d-b6ed-d9963b0e5b24"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -122,7 +125,7 @@
       <updated>1795413855184</updated>
       <workItem from="1795413856786" duration="478000" />
       <workItem from="1795414351975" duration="148000" />
-      <workItem from="1795415132822" duration="5583000" />
+      <workItem from="1795415132822" duration="6416000" />
     </task>
     <servers />
   </component>
